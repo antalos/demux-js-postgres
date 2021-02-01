@@ -1,5 +1,11 @@
 # demux-js-postgres [![Build Status](https://travis-ci.org/EOSIO/demux-js-postgres.svg?branch=develop)](https://travis-ci.org/EOSIO/demux-js-postgres)
 
+## Fork reason
+- we've failed to get project running with package versions 4.0.1, 4.0.2 version, while it was working @ 5.0.2
+- the original package has not been published to npm (https://github.com/EOSIO/demux-js-postgres), was forked from /develop branch @ 5.0.2 version (commit c7cd9ffa43c60b8a4205c34f6f1421cc39d2a37a)
+- massive has been updated to 6.6.5
+
+
 ## Installation
 
 ```bash
